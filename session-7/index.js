@@ -42,5 +42,5 @@ function compare(a, b) {
   const personA = a.age;
   const personB = b.age;
 
-  return personA > personB ? 1 : -1;
+  return personA > personB ? true : false;
 }

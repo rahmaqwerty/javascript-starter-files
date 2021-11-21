@@ -5,7 +5,7 @@ Starter files:
 - `index.html`
 - `js/index.js`
 - `js/birmingham.js`
-- `js/fruits.js`
+- `js/fruit.js`
 - `js/giveMeFruits.js`
 - `js/addEvents.js`
 - `js/removeEvents.js`

@@ -1,20 +1,5 @@
 // ****************************************************TASK 1 - OBJECTS****************************************************
-// ***Uncomment the code below to begin the task***
 
-// const personA = {
-//   firstName: "Monique",
-//   likes: "pizza",
-// };
-
-// const personB = personA;
-
-// console.log("Person A before" + personA.firstName);
-// console.log("Person B before" + personB.firstName);
-
-// personA.firstName = "Stacy";
-
-// console.log("Person A after" + personA.firstName);
-// console.log("Person B after" + personB.firstName);
 
 
 
